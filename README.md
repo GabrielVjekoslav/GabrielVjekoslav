@@ -41,7 +41,7 @@ Estou sempre explorando novos recursos, estudando boas práticas e contribuindo 
 
 ## 📬 Vamos nos conectar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-vjekoslav/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabrielvjekoslav/)
 - 📧 gabrielvjekoslav@gmail.com
 
 ---
